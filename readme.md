@@ -39,8 +39,5 @@ I’m 24 years old, born and raised in Cape Town, South Africa. I’m a creator 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-# 📊 Contributions
-![](https://github-readme-streak-stats.herokuapp.com/?user=jvjacq&theme=default&hide_border=false)
-
 # 💻 Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jvjacq&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
