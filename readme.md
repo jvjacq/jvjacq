@@ -1,5 +1,5 @@
 # ⭐ About
-I’m 24 years old, born and raised in Cape Town, South Africa. I’m a creator and engineer with a BSc in Computer Science and Computer Engineering from the University of Cape Town. During my free time I'm either working out, reading, watching anime, gaming, listening to music, or hanging out with my friends. I also really love coffee, art, and technology.<br>
+I’m 25 years old, born and raised in Cape Town, South Africa. I’m a creator and engineer with a BSc in Computer Science and Computer Engineering from the University of Cape Town. During my free time I'm either working out, reading, watching anime, gaming, listening to music, or hanging out with my friends. I also really love coffee, art, and technology.<br>
 
 # 🌐 Socials
 [![Website](https://img.shields.io/badge/website-black?style=for-the-badge&logo=Chainlink&logoColor=white)](https://jacqvanjaarsveld.com)
